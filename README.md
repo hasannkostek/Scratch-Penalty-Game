@@ -6,7 +6,8 @@ INFO MENU
 
 PLAY
 <img width="1802" height="966" alt="image" src="https://github.com/user-attachments/assets/7decfcac-ff93-4b88-a06c-f0700d5f9e76" />
-[Penalty Game copy on Scratch - Google Chrome 2026-10-03 18-25-02.zip](https://github.com/user-attachments/files/33005591/Penalty.Game.copy.on.Scratch.-.Google.Chrome.2026-10-03.18-25-02.zip)
+[Penalty Game copy on Scratch - Google Chrome 2026-10-03 18-27-59.zip](https://github.com/user-attachments/files/33005654/Penalty.Game.copy.on.Scratch.-.Google.Chrome.2026-10-03.18-27-59.zip)
+
 
 Penalty Game
 Welcome to my Penalty Game repository. I developed this interactive football game using Scratch. My goal with this project was to create an entertaining penalty shootout experience while improving my visual programming, logical thinking, and game development skills.
